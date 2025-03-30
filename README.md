@@ -2,6 +2,8 @@
 
 A React application that displays NASA's Astronomy Picture of the Day (APOD) in an infinite scroll gallery format. The application fetches images from NASA's APOD API, starting from today's date.
 
+🚀 [Live Demo](https://andrebubniak.github.io/nasa-apod-search)
+
 ## Features
 
 - Infinite scroll implementation for seamless browsing of historical APOD images
